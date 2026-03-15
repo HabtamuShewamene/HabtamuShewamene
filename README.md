@@ -1,8 +1,7 @@
-# Hi, I'm Hatag 👋
 
-![Banner Placeholder](https://placehold.co/1200x300?text=Your+Banner+Here)
+![Banner Placeholder](https://github.com/HabtamuShewamene/HabtamuShewamene/blob/main/banner3.png.png)
 
-Full-Stack Developer passionate about building scalable web applications and solving real-world problems. Skilled in frontend, backend, and database management with hands-on experience in MERN stack, Java Spring Boot, Laravel, and PostgreSQL.
+ Hi, I'm Habtamu Shewamene 👋 Full-Stack Developer passionate about building scalable web applications and solving real-world problems. Skilled in frontend, backend, and database management with hands-on experience in MERN stack, Java Spring Boot, Laravel, and PostgreSQL.
 
 ---
 
